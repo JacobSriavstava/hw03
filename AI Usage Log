@@ -1,0 +1,12 @@
+# AI Usage Log
+
+## Reflection
+Claude Cowork was very helpful for this assignment. I asked CLaude to help me activate the .venv environment as I forgot what the exact code was for this. Then, after I wrote my specifications, CLaude created the python script that did what I wanted it to do. The Claude Cowork uploaded it to my folder and then I was able to run it in my terminal. 
+
+For specification 1, the expected output did not completely lineup. There were two sections that resulted in a Not_Found. I entered the problem into CLaude and asked it to help resolve the problem. Claude could not access the SEC EDGAR from the environment so it wrote a helper script titled dump_press_release.py. The script reused the functions in the earnings.py to dowload each JPM press release and save them as plain text. It then printed the first 3,000 characters and everything that mentioned EPS. The script now checks JP Morgans results table first row. After the rerun, all 4 JP Morgan quarters matched the reported figures and there were not Not_Found sections. 
+
+I had trouble with some of the output in the second specification as well. Re-election was counting as an election and I asked Claude to help me fix these problems. It did this by creating the dump_502.py folder that fixed these problems. 
+
+Then, for part 4 I used Claude Cowork to run the specification to build the Corporate Events Timeline.
+
+For Part 5C I used Claude Cowork to create the python code to find the needed information.

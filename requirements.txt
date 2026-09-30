@@ -1,0 +1,5 @@
+# HW03 - SEC 8-K pipelines
+requests            # EDGAR API + filing downloads
+beautifulsoup4      # strip HTML to plain text
+pandas              # Part 4 timeline join
+yfinance            # Part 5C cross-validation

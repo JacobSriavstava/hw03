@@ -1,0 +1,29 @@
+company,ticker,cik,filing_date,event_type,person_name,title,effective_date,earnings_filing_date,period,revenue_reported,eps_diluted,net_income,days_to_nearest_earnings,event_timing
+Apple Inc.,AAPL,0000320193,2026-04-20,both,Tim Cook,Chief Executive Officer,2026-09-01,2026-04-30,Second quarter fiscal 2026,111200.0,2.01,29578.0,10,before earnings
+Apple Inc.,AAPL,0000320193,2026-04-20,appointment,John Ternus,Chief Executive Officer,2026-04-17,2026-04-30,Second quarter fiscal 2026,111200.0,2.01,29578.0,10,before earnings
+Apple Inc.,AAPL,0000320193,2026-04-20,appointment,Art Levinson,Lead Independent Director,2026-09-01,2026-04-30,Second quarter fiscal 2026,111200.0,2.01,29578.0,10,before earnings
+Apple Inc.,AAPL,0000320193,2026-01-02,appointment,Ben Borders,Principal Accounting Officer,2026-01-01,2026-01-29,First quarter fiscal 2026,143800.0,2.84,42097.0,27,before earnings
+Apple Inc.,AAPL,0000320193,2025-12-05,appointment,Jennifer Newstead,general counsel,2025-12-04,2025-10-30,Fourth quarter fiscal 2025,102500.0,1.85,27466.0,36,after earnings
+Apple Inc.,AAPL,0000320193,2025-12-05,departure,Kate Adams,general counsel,2025-12-04,2025-10-30,Fourth quarter fiscal 2025,102500.0,1.85,27466.0,36,after earnings
+Microsoft Corporation,MSFT,0000789019,2026-06-05,departure,Reid Hoffman,Director,2026-06-02,2026-04-29,"Quarter ended March 31, 2026",82900.0,4.27,31800.0,37,after earnings
+Microsoft Corporation,MSFT,0000789019,2026-05-14,appointment,Carmine Di Sibio,Director,2026-05-13,2026-04-29,"Quarter ended March 31, 2026",82900.0,4.27,31800.0,15,after earnings
+Microsoft Corporation,MSFT,0000789019,2025-09-30,departure,Carlos A. Rodriguez,Director,2025-09-24,2025-10-29,"Quarter ended September 30, 2025",77700.0,3.72,27700.0,29,before earnings
+NVIDIA Corporation,NVDA,0001045810,2026-07-02,departure,Ajay K. Puri,Executive Vice President,2026-06-28,2026-05-20,First quarter fiscal 2027,81600.0,2.39,58321.0,43,after earnings
+NVIDIA Corporation,NVDA,0001045810,2026-07-02,appointment,Nicholas Parker,Executive Vice President,2026-07-01,2026-05-20,First quarter fiscal 2027,81600.0,2.39,58321.0,43,after earnings
+NVIDIA Corporation,NVDA,0001045810,2026-05-08,appointment,Suzanne Nora Johnson,Director,2026-07-13,2026-05-20,First quarter fiscal 2027,81600.0,2.39,58321.0,12,before earnings
+NVIDIA Corporation,NVDA,0001045810,2026-04-27,departure,Donald Robertson,VP and CAO,2026-05-04,2026-05-20,First quarter fiscal 2027,81600.0,2.39,58321.0,23,before earnings
+NVIDIA Corporation,NVDA,0001045810,2026-04-27,appointment,Scott Gawel,VP and CAO of the Company,2026-04-26,2026-05-20,First quarter fiscal 2027,81600.0,2.39,58321.0,23,before earnings
+NVIDIA Corporation,NVDA,0001045810,2026-01-23,departure,Persis Drell,Director,2026-01-23,2026-02-25,"Quarter ended January 25, 2026",68100.0,1.76,42960.0,33,before earnings
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,appointment,Doug Petno,Co-President,2026-06-25,2026-07-14,Second quarter 2026,57300.0,7.7,21200.0,19,before earnings
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,appointment,Troy Rohrbaugh,Co-President,2026-06-25,2026-07-14,Second quarter 2026,57300.0,7.7,21200.0,19,before earnings
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,departure,Marianne Lake,CEO of CCB,NOT_FOUND,2026-07-14,Second quarter 2026,57300.0,7.7,21200.0,19,before earnings
+JPMorgan Chase & Co.,JPM,0000019617,2025-12-08,departure,Todd A. Combs,Director,2025-12-07,2026-01-13,Fourth quarter 2025,45800.0,4.63,13000.0,36,before earnings
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,David Guggina,Executive Vice President,2026-02-01,2026-02-19,Q4 FY26,190700.0,0.53,4237.0,34,before earnings
+Walmart Inc.,WMT,0000104169,2026-01-16,departure,Kathryn McLay,Executive Vice President,2026-01-15,2026-02-19,Q4 FY26,190700.0,0.53,4237.0,34,before earnings
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,Christopher Nicholas,Executive Vice President,2026-01-16,2026-02-19,Q4 FY26,190700.0,0.53,4237.0,34,before earnings
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,Latriece Watkins,Executive Vice President,2026-01-16,2026-02-19,Q4 FY26,190700.0,0.53,4237.0,34,before earnings
+Walmart Inc.,WMT,0000104169,2026-01-08,appointment,Shishir Mehrotra,Director,2026-01-08,2026-02-19,Q4 FY26,190700.0,0.53,4237.0,42,before earnings
+Walmart Inc.,WMT,0000104169,2025-11-14,departure,Douglas McMillon,president and chief executive officer,2025-11-11,2025-11-20,Q3 FY26,179500.0,0.77,6143.0,6,same week
+Walmart Inc.,WMT,0000104169,2025-11-14,appointment,John R. Furner,president and chief executive officer of the Company,2026-02-01,2025-11-20,Q3 FY26,179500.0,0.77,6143.0,6,same week
+Walmart Inc.,WMT,0000104169,2025-10-22,appointment,Dwayne Milum,Senior Vice President,2026-02-01,2025-11-20,Q3 FY26,179500.0,0.77,6143.0,29,before earnings
+Walmart Inc.,WMT,0000104169,2025-10-22,both,David Chojnowski,Senior Vice President,2026-01-31,2025-11-20,Q3 FY26,179500.0,0.77,6143.0,29,before earnings

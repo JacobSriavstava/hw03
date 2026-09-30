@@ -1,0 +1,29 @@
+company,ticker,cik,filing_date,event_type,person_name,title,effective_date
+Apple Inc.,AAPL,0000320193,2026-04-20,both,Tim Cook,Chief Executive Officer,2026-09-01
+Apple Inc.,AAPL,0000320193,2026-04-20,appointment,John Ternus,Chief Executive Officer,2026-04-17
+Apple Inc.,AAPL,0000320193,2026-04-20,appointment,Art Levinson,Lead Independent Director,2026-09-01
+Apple Inc.,AAPL,0000320193,2026-01-02,appointment,Ben Borders,Principal Accounting Officer,2026-01-01
+Apple Inc.,AAPL,0000320193,2025-12-05,appointment,Jennifer Newstead,general counsel,2025-12-04
+Apple Inc.,AAPL,0000320193,2025-12-05,departure,Kate Adams,general counsel,2025-12-04
+Microsoft Corporation,MSFT,0000789019,2026-06-05,departure,Reid Hoffman,Director,2026-06-02
+Microsoft Corporation,MSFT,0000789019,2026-05-14,appointment,Carmine Di Sibio,Director,2026-05-13
+Microsoft Corporation,MSFT,0000789019,2025-09-30,departure,Carlos A. Rodriguez,Director,2025-09-24
+NVIDIA Corporation,NVDA,0001045810,2026-07-02,departure,Ajay K. Puri,Executive Vice President,2026-06-28
+NVIDIA Corporation,NVDA,0001045810,2026-07-02,appointment,Nicholas Parker,Executive Vice President,2026-07-01
+NVIDIA Corporation,NVDA,0001045810,2026-05-08,appointment,Suzanne Nora Johnson,Director,2026-07-13
+NVIDIA Corporation,NVDA,0001045810,2026-04-27,departure,Donald Robertson,VP and CAO,2026-05-04
+NVIDIA Corporation,NVDA,0001045810,2026-04-27,appointment,Scott Gawel,VP and CAO of the Company,2026-04-26
+NVIDIA Corporation,NVDA,0001045810,2026-01-23,departure,Persis Drell,Director,2026-01-23
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,appointment,Doug Petno,Co-President,2026-06-25
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,appointment,Troy Rohrbaugh,Co-President,2026-06-25
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,departure,Marianne Lake,CEO of CCB,NOT_FOUND
+JPMorgan Chase & Co.,JPM,0000019617,2025-12-08,departure,Todd A. Combs,Director,2025-12-07
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,David Guggina,Executive Vice President,2026-02-01
+Walmart Inc.,WMT,0000104169,2026-01-16,departure,Kathryn McLay,Executive Vice President,2026-01-15
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,Christopher Nicholas,Executive Vice President,2026-01-16
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,Latriece Watkins,Executive Vice President,2026-01-16
+Walmart Inc.,WMT,0000104169,2026-01-08,appointment,Shishir Mehrotra,Director,2026-01-08
+Walmart Inc.,WMT,0000104169,2025-11-14,departure,Douglas McMillon,president and chief executive officer,2025-11-11
+Walmart Inc.,WMT,0000104169,2025-11-14,appointment,John R. Furner,president and chief executive officer of the Company,2026-02-01
+Walmart Inc.,WMT,0000104169,2025-10-22,appointment,Dwayne Milum,Senior Vice President,2026-02-01
+Walmart Inc.,WMT,0000104169,2025-10-22,both,David Chojnowski,Senior Vice President,2026-01-31
